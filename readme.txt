@@ -8,4 +8,4 @@ LIBRARY INSTALLATIONS: You would need to install the SpeechRecognition API libra
 
 Short demonstration of main features: https://www.youtube.com/watch?v=X8eaPd1zNnU&feature=youtu.be
 
-Independently implemented alogrithms for chess piece moving animations, checking valid moves, checking for checks/checkmates/stalemates, minimax backtracking, and other rules/features.
+Independently implemented alogrithms for event and time based animations, checking valid moves, checking for checks/checkmates/stalemates, minimax backtracking, and other rules/features.
